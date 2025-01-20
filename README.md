@@ -46,6 +46,15 @@ A web application for managing product inventory. Easily create, update, delete,
 2. .NET SDK installed.
 3. SQL Server instance.
 
+To run this project, ensure you have the following versions installed:
+
+- **Node.js**: v22.13.0
+- **npm**: 11.0.0
+- **Vue.js**: ^3.5.13
+- **.NET SDK**: v9.0.102
+- **SQL Server**: Compatible with version 2019 or higher
+- **Vite**: v^6.0.5 (installed as a dev dependency)
+
 ### Backend Setup
 
 1. Clone the repository:
