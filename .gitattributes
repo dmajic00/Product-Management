@@ -1,13 +1,11 @@
-# Enforce LF line endings for all text files
+# Handle line endings
 * text=auto
 
-# Ensure JSON and JavaScript files always use LF
-*.json text eol=lf
-*.js text eol=lf
-*.vue text eol=lf
-*.css text eol=lf
-
-# Binary files
-*.png binary
-*.jpg binary
-*.gif binary
+# Explicit text file formats
+*.cs text
+*.js text
+*.vue text
+*.html text
+*.json text
+*.css text
+*.md text
