@@ -50,8 +50,8 @@ A web application for managing product inventory. Easily create, update, delete,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/product-management-app.git
-   cd product-management-app/backend
+   git clone https://github.com/dmajic00/Product-Management.git
+   cd Product-Management-app/ProductAPI
    ```
 2. Set up the database:
    - Create a database in SQL Server.
@@ -71,7 +71,7 @@ A web application for managing product inventory. Easily create, update, delete,
 
 1. Navigate to the frontend directory:
    ```bash
-   cd ../frontend
+   cd ../PRODUCT_FRONTEND
    ```
 2. Install dependencies:
    ```bash
