@@ -59,7 +59,7 @@ A web application for managing product inventory. Easily create, update, delete,
 3. Make sure your applicationUrl in `launchSettings.json` matches the frontend url.
 
 ```json
- - "applicationUrl": "https://localhost:7020;http://localhost:5074"
+ "applicationUrl": "https://localhost:7020;http://localhost:5074"
 ```
 
 4. Run the backend:
