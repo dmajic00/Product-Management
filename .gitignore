@@ -1,0 +1,86 @@
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules/
+dist/
+dist-ssr/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Editor-specific directories and files
+.vscode/
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# System files
+Thumbs.db
+*.DS_Store
+
+# Compiled output
+/bin/
+/obj/
+/out/
+
+# Package lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Temporary files and folders
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Build directories
+.build/
+.cache/
+
+# Debug and test files
+*.spec.js
+*.test.js
+jest.config.js
+cypress/
+cypress.config.js
+
+# NuGet and .NET files
+*.nupkg
+*.snupkg
+*.user
+*.publishsettings
+
+# Backup files
+*.bak
+*.old
+*.orig
+
+# Ignore Git's merge resolution backups
+*.orig
+
+# Ignore IDE-specific project files
+*.sln
+*.csproj.user
+.vscode/settings.json
+
+# Ignore unnecessary product-specific folders
+wwwroot/
